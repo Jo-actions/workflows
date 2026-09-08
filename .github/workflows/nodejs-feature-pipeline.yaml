@@ -10,7 +10,7 @@ on:
        description: 'component name'
        required: false
        type: string
-      Environment:
+      environment:
         description: 'Env name'
         required: true
         type: string
