@@ -9,7 +9,7 @@ on:
       component:
        description: 'component name'
        required: false
-       type: boolean
+       type: string
       Environment:
         description: 'Env name'
         required: true
